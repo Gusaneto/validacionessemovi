@@ -1,0 +1,8 @@
+{
+  "name": "semovi-validador-unificado",
+  "version": "1.0.0",
+  "description": "Validador SEMOVI con panel de control integrado en la misma página",
+  "scripts": {
+    "start": "echo 'Deploy ready for Vercel'"
+  }
+}
